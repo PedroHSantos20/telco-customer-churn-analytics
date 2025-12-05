@@ -1,0 +1,12 @@
+polars
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+shap
+joblib
+ipywidgets
+huggingface_hub
